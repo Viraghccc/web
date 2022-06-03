@@ -20,8 +20,10 @@ h2{
     margin-top: 10px;    
     color: #463706;
     border: #463706;
+    border-width: 3px;
     border-left: dotted;   
-    
+    border-bottom-width: 15px;
+
     
 }
 
@@ -51,4 +53,9 @@ thead>tr:first-child{
 a{
 
     color: #463706;
+}
+
+img{
+    width: 100%;
+    height: auto;
 }
