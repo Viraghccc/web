@@ -40,7 +40,7 @@ h3{
 
 li{
     list-style-image: url(../img/maszk.png);
-    
+    margin-left: 40px;
 }
 
 
@@ -66,4 +66,11 @@ a{
 .buso {
     float: right;
 
+}
+
+.navbar-nav {
+    width: 1100px;
+    height: 40px;
+    background-color: #bbee00;
+    
 }
